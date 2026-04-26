@@ -174,10 +174,10 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 
 ## 🎵&nbsp;&nbsp;Now Playing
 
-<!-- Live widget swaps in once novatorem is deployed — see tools/spotify-setup.md -->
+<!-- Live widget — novatorem deployed at stephensook-novatorem.vercel.app -->
 <div align="center">
   <a href="https://open.spotify.com/user/31ozwwqttjufzxrv7k3qoovvpd34">
-    <img src="https://img.shields.io/badge/🎧%20Live%20Now%20Playing-Activating%20soon%20·%20deploying%20novatorem-1DB954?style=for-the-badge&labelColor=1A1B27" alt="Spotify live now-playing — activating"/>
+    <img src="https://stephensook-novatorem.vercel.app/api/orchestrator?background_color=1A1B27&border_color=7B61FF" alt="Live Spotify Now Playing" />
   </a>
   <br/><br/>
   <a href="https://open.spotify.com/user/31ozwwqttjufzxrv7k3qoovvpd34">
