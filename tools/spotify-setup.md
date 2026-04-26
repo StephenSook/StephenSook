@@ -10,7 +10,7 @@ Total time: ~5–7 minutes. After this, your README shows the track you're curre
 4. Fill in:
    - **App name:** `GitHub Profile Now Playing`
    - **App description:** `Now-playing widget on github.com/StephenSook`
-   - **Redirect URI:** `http://localhost:8888/callback`
+   - **Redirect URI:** `http://127.0.0.1:8888/callback`
    - **APIs used:** Web API
 5. Save → open your app → **Settings** → copy **Client ID** and **Client Secret**
 
@@ -69,6 +69,6 @@ Commit + push. Done — README now shows live track.
 ## Troubleshooting
 
 - **Widget shows nothing** — make sure you're actively playing on Spotify (or recently played). The endpoint returns the last-known state.
-- **`INVALID_CLIENT`** — the redirect URI in your Spotify app must match `http://localhost:8888/callback` exactly.
+- **`INVALID_CLIENT`** — the redirect URI in your Spotify app must match `http://127.0.0.1:8888/callback` exactly.
 - **`401`** — refresh token expired (rare). Re-run the helper script to mint a new one.
 - **Image cached on GitHub** — GitHub's camo proxy caches images. Append `?v=2` to bust cache, or wait ~5 minutes.

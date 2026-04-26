@@ -23,7 +23,7 @@ import urllib.parse
 import urllib.request
 import webbrowser
 
-REDIRECT_URI = "http://localhost:8888/callback"
+REDIRECT_URI = "http://127.0.0.1:8888/callback"
 SCOPES = "user-read-currently-playing user-read-recently-played"
 PORT = 8888
 
@@ -73,14 +73,14 @@ def main():
         "state": state,
     })
 
-    server = http.server.HTTPServer(("localhost", PORT), CallbackHandler)
+    server = http.server.HTTPServer(("127.0.0.1", PORT), CallbackHandler)
     thread = threading.Thread(target=server.serve_forever, daemon=True)
     thread.start()
 
     print(f"\nOpening browser to authorize...\nIf it doesn't open, paste this URL:\n  {auth_url}\n")
     webbrowser.open(auth_url)
 
-    print("Waiting for callback on http://localhost:8888/callback ...")
+    print("Waiting for callback on http://127.0.0.1:8888/callback ...")
     while "code" not in captured and "error" not in captured:
         pass
     server.shutdown()
