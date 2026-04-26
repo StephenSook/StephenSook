@@ -4,9 +4,9 @@
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ─────────────────────────  HERO BANNER  ───────────────────────── -->
-<!-- Custom AI-generated banner via Gemini Nano Banana 2 (gemini-3.1-flash-image-preview) -->
+<!-- Hand-coded animated SVG: drifting particles, breathing glow, gradient wipe, typewriter subtitle, neural-net constellation -->
 <a href="https://github.com/StephenSook">
-  <img src="./assets/banner.png" alt="Stephen Sookra — CS @ KSU · AI/ML · Builder · Atlanta" width="100%" />
+  <img src="./assets/banner.svg" alt="Stephen Sookra — CS @ KSU · AI/ML · Builder · Atlanta" width="100%" />
 </a>
 
 <!-- ─────────────────────  ANIMATED TYPING TAGLINE  ───────────────── -->
@@ -184,52 +184,6 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
     <img src="https://img.shields.io/badge/Open%20on%20Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify profile"/>
   </a>
 </div>
-
-<br/>
-
-<!-- ───────────────────────  FEATURED PROJECTS  ────────────────────── -->
-<div id="projects"></div>
-
-## 🚀&nbsp;&nbsp;Featured Projects
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%">
-  <a href="https://github.com/StephenSook/StepSafe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=StephenSook&repo=StepSafe&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=38BDAE&text_color=A9B1D6&icon_color=BF91F3" alt="StepSafe" />
-  </a>
-</td>
-<td align="center" width="50%">
-  <a href="https://github.com/StephenSook/PyroLens">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=StephenSook&repo=PyroLens&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=38BDAE&text_color=A9B1D6&icon_color=BF91F3" alt="PyroLens" />
-  </a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-  <a href="https://github.com/StephenSook/Saber">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=StephenSook&repo=Saber&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=38BDAE&text_color=A9B1D6&icon_color=BF91F3" alt="Saber" />
-  </a>
-</td>
-<td align="center" width="50%">
-  <a href="https://github.com/StephenSook/nest-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=StephenSook&repo=nest-portfolio&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=38BDAE&text_color=A9B1D6&icon_color=BF91F3" alt="Nest portfolio" />
-  </a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-  <a href="https://github.com/StephenSook/trace-forensic-search">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=StephenSook&repo=trace-forensic-search&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=38BDAE&text_color=A9B1D6&icon_color=BF91F3" alt="Trace" />
-  </a>
-</td>
-<td align="center" width="50%">
-  <a href="https://github.com/StephenSook/GroundVault">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=StephenSook&repo=GroundVault&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=38BDAE&text_color=A9B1D6&icon_color=BF91F3" alt="GroundVault" />
-  </a>
-</td>
-</tr>
-</table>
 
 <br/>
 
