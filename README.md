@@ -212,8 +212,8 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
   </a>
 </td>
 <td align="center" width="50%">
-  <a href="https://github.com/StephenSook/nest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=StephenSook&repo=nest&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=38BDAE&text_color=A9B1D6&icon_color=BF91F3" alt="Nest" />
+  <a href="https://github.com/StephenSook/nest-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=StephenSook&repo=nest-portfolio&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=38BDAE&text_color=A9B1D6&icon_color=BF91F3" alt="Nest portfolio" />
   </a>
 </td>
 </tr>
