@@ -4,8 +4,9 @@
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ─────────────────────────  HERO BANNER  ───────────────────────── -->
+<!-- Custom AI-generated banner via Gemini Nano Banana 2 (gemini-3.1-flash-image-preview) -->
 <a href="https://github.com/StephenSook">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7B61FF,100:9D50FF&height=260&section=header&text=Stephen%20Sookra&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Builder%20%C2%B7%20AI%2FML%20%C2%B7%20Future%20Founder&descAlignY=56&descSize=20&descColor=ffffff" alt="Stephen Sookra hero banner" />
+  <img src="./assets/banner.png" alt="Stephen Sookra — CS @ KSU · AI/ML · Builder · Atlanta" width="100%" />
 </a>
 
 <!-- ─────────────────────  ANIMATED TYPING TAGLINE  ───────────────── -->
@@ -56,45 +57,17 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 
 ## 🏆&nbsp;&nbsp;Hackathon Trophy Wall &nbsp;·&nbsp; <kbd>6× Podium Finisher</kbd>
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/%F0%9F%A5%87%20FIRST%20PLACE-HMI%20Hackathon-FFD700?style=for-the-badge&labelColor=1A1B27" alt="1st HMI" /><br/>
-  <a href="https://github.com/StephenSook/StepSafe"><b>StepSafe</b></a><br/>
-  <sub>Computer-vision diabetic foot-ulcer triage. <br/>Expert-level diagnosis from a single photo.</sub>
-</td>
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/%F0%9F%A5%88%20SECOND%20PLACE-Wells%20Fargo%20Code%20Catalyst-C0C0C0?style=for-the-badge&labelColor=1A1B27" alt="2nd Wells Fargo" /><br/>
-  <b>SafeHaven</b> &nbsp;<img src="https://img.shields.io/badge/NEW-FF3D71?style=flat-square" alt="NEW" /><br/>
-  <sub><b>4,700-student</b> nationwide field. <br/>Latest podium · April 2026.</sub>
-</td>
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/%F0%9F%A5%88%20SECOND%20PLACE-KSU%20Social%20Good-C0C0C0?style=for-the-badge&labelColor=1A1B27" alt="2nd KSU SocGood" /><br/>
-  <a href="https://github.com/StephenSook/PyroLens"><b>PyroLens</b></a><br/>
-  <sub>AI-powered prescribed-burn decision support<br/>w/ IoT sensors + real-time weather fusion.</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/%F0%9F%A5%89%20THIRD%20PLACE-KSU%20FinTech-CD7F32?style=for-the-badge&labelColor=1A1B27" alt="3rd FinTech" /><br/>
-  <b>EchoPay</b><br/>
-  <sub>Voice-driven financial assistant for<br/>under-banked communities.</sub>
-</td>
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/%F0%9F%A5%89%20THIRD%20PLACE-Vibra%20ATL-CD7F32?style=for-the-badge&labelColor=1A1B27" alt="3rd Vibra ATL" /><br/>
-  <a href="https://github.com/StephenSook/Saber"><b>Saber</b></a><br/>
-  <sub>Diagnostic platform separating language-<br/>barrier from knowledge-gap for ELL students.</sub>
-</td>
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/%E2%9A%A1%20BUILDER-Multi--Hackathon%20Circuit-7B61FF?style=for-the-badge&labelColor=1A1B27" alt="Builder circuit" /><br/>
-  <b>Hacklytics · Hacklanta · Vibe&lt;ATL&gt;</b><br/>
-  <sub>NeoGuide · QRoulette · Compass · Hexbear<br/>Emory Hacks · UGAHacks · & counting.</sub>
-</td>
-</tr>
-</table>
+<div align="center">
+  <a href="https://devpost.com/stephensookra">
+    <img src="./assets/trophy-wall.svg" alt="Hackathon trophy wall — 6× podium" width="100%" />
+  </a>
+</div>
 
 <div align="center">
-  <a href="https://devpost.com/stephensookra"><img src="https://img.shields.io/badge/See%20every%20build%20on%20DevPost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="DevPost portfolio" /></a>
+  <a href="https://github.com/StephenSook/StepSafe"><img src="https://img.shields.io/badge/🥇_StepSafe-1st_HMI-FFD700?style=flat-square&labelColor=1A1B27" alt="StepSafe repo"/></a>
+  <a href="https://github.com/StephenSook/PyroLens"><img src="https://img.shields.io/badge/🥈_PyroLens-2nd_KSU_SocGood-E5E7EB?style=flat-square&labelColor=1A1B27" alt="PyroLens repo"/></a>
+  <a href="https://github.com/StephenSook/Saber"><img src="https://img.shields.io/badge/🥉_Saber-3rd_Vibra_ATL-CD7F32?style=flat-square&labelColor=1A1B27" alt="Saber repo"/></a>
+  <a href="https://devpost.com/stephensookra"><img src="https://img.shields.io/badge/See%20every%20build-DevPost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="DevPost portfolio" /></a>
 </div>
 
 <br/>
@@ -201,9 +174,14 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 
 ## 🎵&nbsp;&nbsp;Now Playing
 
+<!-- Live widget swaps in once novatorem is deployed — see tools/spotify-setup.md -->
 <div align="center">
-  <a href="https://open.spotify.com/user/stephensookra">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=stephensookra&unique=true&count=5" alt="Recently played on Spotify" />
+  <a href="https://open.spotify.com/user/31ozwwqttjufzxrv7k3qoovvpd34">
+    <img src="https://img.shields.io/badge/🎧%20Live%20Now%20Playing-Activating%20soon%20·%20deploying%20novatorem-1DB954?style=for-the-badge&labelColor=1A1B27" alt="Spotify live now-playing — activating"/>
+  </a>
+  <br/><br/>
+  <a href="https://open.spotify.com/user/31ozwwqttjufzxrv7k3qoovvpd34">
+    <img src="https://img.shields.io/badge/Open%20on%20Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify profile"/>
   </a>
 </div>
 

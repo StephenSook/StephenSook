@@ -1,0 +1,181 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640" role="img" aria-label="Stephen Sookra hackathon trophy wall">
+  <defs>
+    <!-- Backgrounds -->
+    <linearGradient id="card" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1F2034"/>
+      <stop offset="100%" stop-color="#15162A"/>
+    </linearGradient>
+    <linearGradient id="goldStripe" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F5C547"/>
+      <stop offset="50%" stop-color="#FFD700"/>
+      <stop offset="100%" stop-color="#F5C547"/>
+    </linearGradient>
+    <linearGradient id="silverStripe" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B8BFCC"/>
+      <stop offset="50%" stop-color="#E5E7EB"/>
+      <stop offset="100%" stop-color="#B8BFCC"/>
+    </linearGradient>
+    <linearGradient id="bronzeStripe" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B87333"/>
+      <stop offset="50%" stop-color="#CD7F32"/>
+      <stop offset="100%" stop-color="#B87333"/>
+    </linearGradient>
+    <linearGradient id="builderStripe" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00C9FF"/>
+      <stop offset="50%" stop-color="#7B61FF"/>
+      <stop offset="100%" stop-color="#9D50FF"/>
+    </linearGradient>
+
+    <!-- Trophy gradients -->
+    <linearGradient id="goldFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFE066"/>
+      <stop offset="100%" stop-color="#D4A107"/>
+    </linearGradient>
+    <linearGradient id="silverFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F4F5F7"/>
+      <stop offset="100%" stop-color="#9CA3AF"/>
+    </linearGradient>
+    <linearGradient id="bronzeFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#E8A77B"/>
+      <stop offset="100%" stop-color="#A55A1F"/>
+    </linearGradient>
+    <linearGradient id="builderFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#5BE0FF"/>
+      <stop offset="100%" stop-color="#9D50FF"/>
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="cardGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
+      <feOffset dx="0" dy="2" result="offsetblur"/>
+      <feFlood flood-color="#7B61FF" flood-opacity="0.25"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Reusable trophy symbol -->
+    <symbol id="trophyShape" viewBox="0 0 64 64">
+      <path d="M16 8h32v8c0 6-3 11-8 13v6c0 4-3 7-7 7h-2c-4 0-7-3-7-7v-6c-5-2-8-7-8-13V8zm-8 4h6v6c-3-1-6-3-6-6zm44 0h6c0 3-3 5-6 6v-6zM24 48h16v4H24v-4zm-3 6h22v4H21v-4z" fill="currentColor"/>
+    </symbol>
+
+    <!-- Reusable medal symbol -->
+    <symbol id="medalShape" viewBox="0 0 64 64">
+      <circle cx="32" cy="38" r="20" fill="currentColor" opacity="0.95"/>
+      <circle cx="32" cy="38" r="14" fill="none" stroke="#15162A" stroke-width="2" opacity="0.6"/>
+      <path d="M22 4l4 16h-8zM42 4l4 16h-8z" fill="currentColor" opacity="0.8"/>
+    </symbol>
+
+    <!-- Builder bolt symbol -->
+    <symbol id="boltShape" viewBox="0 0 64 64">
+      <path d="M36 4L14 36h12l-4 24 22-32H32l4-24z" fill="currentColor"/>
+    </symbol>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="640" fill="#0E0F1C"/>
+
+  <!-- Wall title -->
+  <text x="600" y="48" text-anchor="middle" font-family="JetBrains Mono, ui-monospace, Menlo, monospace" font-size="22" font-weight="700" fill="#A9B1D6" letter-spacing="6">HACKATHON · TROPHY · WALL</text>
+  <text x="600" y="76" text-anchor="middle" font-family="JetBrains Mono, ui-monospace, Menlo, monospace" font-size="12" fill="#7B61FF" letter-spacing="4">6× PODIUM FINISHER  ·  STEPHEN SOOKRA  ·  ATL</text>
+
+  <!-- Row 1 -->
+
+  <!-- Card 1 — 1st HMI -->
+  <g transform="translate(40,110)" filter="url(#cardGlow)">
+    <rect width="360" height="220" rx="18" fill="url(#card)" stroke="#2A2C45" stroke-width="1"/>
+    <rect width="360" height="6" rx="3" fill="url(#goldStripe)"/>
+    <g transform="translate(28,42)" color="url(#goldFill)" fill="url(#goldFill)">
+      <use href="#trophyShape" width="64" height="64"/>
+    </g>
+    <text x="120" y="68" font-family="JetBrains Mono, ui-monospace, Menlo, monospace" font-size="13" font-weight="700" fill="#FFD700" letter-spacing="3">1ST PLACE</text>
+    <text x="120" y="92" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF">HMI Hackathon</text>
+    <text x="120" y="116" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#9D50FF" font-weight="600">→  StepSafe</text>
+    <text x="28" y="170" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#A9B1D6">Computer-vision diabetic foot-ulcer triage.</text>
+    <text x="28" y="190" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#A9B1D6">Expert-level diagnosis from a single photo.</text>
+  </g>
+
+  <!-- Card 2 — 2nd Wells Fargo (NEW) -->
+  <g transform="translate(420,110)" filter="url(#cardGlow)">
+    <rect width="360" height="220" rx="18" fill="url(#card)" stroke="#3A3D5F" stroke-width="1"/>
+    <rect width="360" height="6" rx="3" fill="url(#silverStripe)"/>
+    <g transform="translate(28,42)" color="url(#silverFill)" fill="url(#silverFill)">
+      <use href="#trophyShape" width="64" height="64"/>
+    </g>
+    <text x="120" y="68" font-family="JetBrains Mono, ui-monospace, Menlo, monospace" font-size="13" font-weight="700" fill="#E5E7EB" letter-spacing="3">2ND PLACE</text>
+    <text x="120" y="92" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="800" fill="#FFFFFF">Wells Fargo Code Catalyst</text>
+    <text x="120" y="116" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#9D50FF" font-weight="600">→  SafeHaven</text>
+    <!-- NEW badge -->
+    <g transform="translate(296,18)">
+      <rect width="48" height="20" rx="10" fill="#FF3D71"/>
+      <text x="24" y="14" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="800" fill="#FFFFFF" letter-spacing="1">NEW</text>
+    </g>
+    <text x="28" y="170" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#A9B1D6">4,700-student nationwide field.</text>
+    <text x="28" y="190" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#A9B1D6">Latest podium · April 2026.</text>
+  </g>
+
+  <!-- Card 3 — 2nd KSU SocGood -->
+  <g transform="translate(800,110)" filter="url(#cardGlow)">
+    <rect width="360" height="220" rx="18" fill="url(#card)" stroke="#2A2C45" stroke-width="1"/>
+    <rect width="360" height="6" rx="3" fill="url(#silverStripe)"/>
+    <g transform="translate(28,42)" color="url(#silverFill)" fill="url(#silverFill)">
+      <use href="#trophyShape" width="64" height="64"/>
+    </g>
+    <text x="120" y="68" font-family="JetBrains Mono, ui-monospace, Menlo, monospace" font-size="13" font-weight="700" fill="#E5E7EB" letter-spacing="3">2ND PLACE</text>
+    <text x="120" y="92" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="800" fill="#FFFFFF">KSU Social Good</text>
+    <text x="120" y="116" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#9D50FF" font-weight="600">→  PyroLens</text>
+    <text x="28" y="170" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#A9B1D6">Prescribed-burn AI decision support</text>
+    <text x="28" y="190" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#A9B1D6">w/ IoT sensors + real-time weather.</text>
+  </g>
+
+  <!-- Row 2 -->
+
+  <!-- Card 4 — 3rd KSU FinTech -->
+  <g transform="translate(40,360)" filter="url(#cardGlow)">
+    <rect width="360" height="220" rx="18" fill="url(#card)" stroke="#2A2C45" stroke-width="1"/>
+    <rect width="360" height="6" rx="3" fill="url(#bronzeStripe)"/>
+    <g transform="translate(28,42)" color="url(#bronzeFill)" fill="url(#bronzeFill)">
+      <use href="#trophyShape" width="64" height="64"/>
+    </g>
+    <text x="120" y="68" font-family="JetBrains Mono, ui-monospace, Menlo, monospace" font-size="13" font-weight="700" fill="#CD7F32" letter-spacing="3">3RD PLACE</text>
+    <text x="120" y="92" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF">KSU FinTech</text>
+    <text x="120" y="116" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#9D50FF" font-weight="600">→  EchoPay</text>
+    <text x="28" y="170" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#A9B1D6">Voice-driven financial assistant for</text>
+    <text x="28" y="190" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#A9B1D6">under-banked communities.</text>
+  </g>
+
+  <!-- Card 5 — 3rd Vibra ATL -->
+  <g transform="translate(420,360)" filter="url(#cardGlow)">
+    <rect width="360" height="220" rx="18" fill="url(#card)" stroke="#2A2C45" stroke-width="1"/>
+    <rect width="360" height="6" rx="3" fill="url(#bronzeStripe)"/>
+    <g transform="translate(28,42)" color="url(#bronzeFill)" fill="url(#bronzeFill)">
+      <use href="#trophyShape" width="64" height="64"/>
+    </g>
+    <text x="120" y="68" font-family="JetBrains Mono, ui-monospace, Menlo, monospace" font-size="13" font-weight="700" fill="#CD7F32" letter-spacing="3">3RD PLACE</text>
+    <text x="120" y="92" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF">Vibra ATL</text>
+    <text x="120" y="116" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#9D50FF" font-weight="600">→  Saber</text>
+    <text x="28" y="170" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#A9B1D6">ELL diagnostic platform separating</text>
+    <text x="28" y="190" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#A9B1D6">language-barrier from knowledge-gap.</text>
+  </g>
+
+  <!-- Card 6 — Multi-hackathon Builder -->
+  <g transform="translate(800,360)" filter="url(#cardGlow)">
+    <rect width="360" height="220" rx="18" fill="url(#card)" stroke="#3A3D5F" stroke-width="1"/>
+    <rect width="360" height="6" rx="3" fill="url(#builderStripe)"/>
+    <g transform="translate(28,42)" color="url(#builderFill)" fill="url(#builderFill)">
+      <use href="#boltShape" width="64" height="64"/>
+    </g>
+    <text x="120" y="68" font-family="JetBrains Mono, ui-monospace, Menlo, monospace" font-size="13" font-weight="700" fill="#7B61FF" letter-spacing="3">BUILDER · CIRCUIT</text>
+    <text x="120" y="92" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="800" fill="#FFFFFF">Multi-Hackathon</text>
+    <text x="120" y="116" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#9D50FF" font-weight="600">→  &amp; counting</text>
+    <text x="28" y="160" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#A9B1D6">Hacklytics · Hacklanta · Vibe&lt;ATL&gt;</text>
+    <text x="28" y="178" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#A9B1D6">Emory Hacks · UGAHacks · KSU C-Day</text>
+    <text x="28" y="196" font-family="Inter, system-ui, sans-serif" font-size="11" fill="#A9B1D6">QRoulette · Compass · NeoGuide · Hexbear</text>
+  </g>
+
+  <!-- Footer line -->
+  <rect x="40" y="608" width="1120" height="2" rx="1" fill="url(#builderStripe)" opacity="0.3"/>
+  <text x="600" y="630" text-anchor="middle" font-family="JetBrains Mono, ui-monospace, Menlo, monospace" font-size="11" fill="#7B61FF" letter-spacing="3">github.com/StephenSook  ·  devpost.com/stephensookra</text>
+</svg>
