@@ -131,7 +131,7 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenSook&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=38BDAE&text_color=A9B1D6&langs_count=10" alt="Top Languages" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=stephensookra&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=38BDAE&text_color=A9B1D6&layout=compact" alt="WakaTime — sign up at wakatime.com to activate" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=StephenSookra&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=38BDAE&text_color=A9B1D6&layout=compact" alt="WakaTime — sign up at wakatime.com to activate" />
 </div>
 
 <br/>
