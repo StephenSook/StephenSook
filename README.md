@@ -47,28 +47,7 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 - 🧠 &nbsp;**Researching** &nbsp;**Trace** — semantic bridge between family descriptions and forensic records for missing persons (named-vector + hybrid fusion on NamUs data, Actian VectorAI)
 - 🔐 &nbsp;**Latest experiment** &nbsp;**GroundVault** — confidential RWA impact lending vault for Community Land Trusts on iExec TEE + Arbitrum Sepolia
 - 🎓 &nbsp;**Summer 2026** &nbsp;Accepted **SMASH Academy TA** (web + game dev · Morehouse / Spelman)
-- 🏆 &nbsp;**Pitch DNA** &nbsp;one specific problem · one clear solution · live demo "that shouldn't be possible" · business numbers
 - 💬 &nbsp;**Ask me about** &nbsp;hackathons · AR/XR · AI/ML · founding · Atlanta tech scene
-
-<br/>
-
-<!-- ─────────────────────  HACKATHON TROPHY WALL  ──────────────────── -->
-<div id="hackathons"></div>
-
-## 🏆&nbsp;&nbsp;Hackathon Trophy Wall &nbsp;·&nbsp; <kbd>6× Podium Finisher</kbd>
-
-<div align="center">
-  <a href="https://devpost.com/stephensookra">
-    <img src="./assets/trophy-wall.svg" alt="Hackathon trophy wall — 6× podium" width="100%" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/StephenSook/StepSafe"><img src="https://img.shields.io/badge/🥇_StepSafe-1st_HMI-FFD700?style=flat-square&labelColor=1A1B27" alt="StepSafe repo"/></a>
-  <a href="https://github.com/StephenSook/PyroLens"><img src="https://img.shields.io/badge/🥈_PyroLens-2nd_KSU_SocGood-E5E7EB?style=flat-square&labelColor=1A1B27" alt="PyroLens repo"/></a>
-  <a href="https://github.com/StephenSook/Saber"><img src="https://img.shields.io/badge/🥉_Saber-3rd_Vibra_ATL-CD7F32?style=flat-square&labelColor=1A1B27" alt="Saber repo"/></a>
-  <a href="https://devpost.com/stephensookra"><img src="https://img.shields.io/badge/See%20every%20build-DevPost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="DevPost portfolio" /></a>
-</div>
 
 <br/>
 
