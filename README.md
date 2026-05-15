@@ -51,6 +51,48 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 
 <br/>
 
+<!-- ────────────────────  FEATURED PROJECTS  ──────────────────────── -->
+<div id="projects"></div>
+
+## 🛠️&nbsp;&nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ATL Quest
+AR/XR scavenger hunt for Atlanta visitors — built @ XR Dojo.<br/>
+<sub>AR · XR · Unity</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://nest-portfolio-pi.vercel.app">Nest</a>
+AI transition navigator for aging-out GA foster youth · KSU C-Day Spring '26.<br/>
+<sub>Next.js · Tailwind · framer-motion · Vercel</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/StephenSook/trace-forensic-search">Trace</a>
+Semantic bridge between family descriptions and forensic records for missing persons. Named vectors + hybrid fusion on NamUs data.<br/>
+<sub>Vector search · Actian VectorAI · Python</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/StephenSook/GroundVault">GroundVault</a>
+Confidential RWA impact-lending vault for Community Land Trusts. ChainGPT-anchored impact memos.<br/>
+<sub>ERC-7984 · ERC-3643 · iExec Nox · Arbitrum Sepolia</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <!-- ───────────────────────────  TECH STACK  ───────────────────────── -->
 <div id="stack"></div>
 
@@ -110,7 +152,6 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenSook&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=38BDAE&text_color=A9B1D6&langs_count=10" alt="Top Languages" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=StephenSookra&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=38BDAE&text_color=A9B1D6&layout=compact" alt="WakaTime — sign up at wakatime.com to activate" />
 </div>
 
 <br/>
@@ -193,7 +234,6 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
   <a href="https://www.instagram.com/sociaall_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.youtube.com/@stephensookra3736"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://devpost.com/stephensookra"><img src="https://img.shields.io/badge/DevPost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="DevPost" /></a>
-  <a href="https://discord.com/users/steve_billz"><img src="https://img.shields.io/badge/Discord-%40steve__billz%20%C2%B7%20Chi%20bl%C3%BA-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="mailto:stephensookra@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://stephensookra.com"><img src="https://img.shields.io/badge/Portfolio-7B61FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </div>
