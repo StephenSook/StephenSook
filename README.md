@@ -12,7 +12,7 @@
 <!-- ─────────────────────  ANIMATED TYPING TAGLINE  ───────────────── -->
 <div align="center">
   <a href="https://stephensookra.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=600&color=38BDAE&center=true&vCenter=true&width=820&height=50&lines=CS+%40+Kennesaw+State+%C2%B7+AI%2FML+Concentration;Software+Engineer+Intern+%40+XR+Dojo;6%C3%97+Hackathon+Podium+Finisher;Building+toward+Trustworthy+AI+%C2%B7+High-Stakes+Domains;Atlanta-based+%C2%B7+Shipping+Ambitious+Things" alt="Rotating tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=30&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=820&height=60&lines=CS+%40+Kennesaw+State+%C2%B7+AI%2FML+Concentration;Software+Engineer+Intern+%40+XR+Dojo;6%C3%97+Hackathon+Podium+Finisher;Building+toward+Trustworthy+AI+%C2%B7+High-Stakes+Domains;Atlanta-based+%C2%B7+Shipping+Ambitious+Things" alt="Rotating tagline" />
   </a>
 </div>
 
@@ -47,6 +47,10 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 - **Latest experiment** &nbsp;**GroundVault** — confidential RWA impact lending vault for Community Land Trusts on iExec TEE + Arbitrum Sepolia
 - **Summer 2026** &nbsp;Accepted **SMASH Academy TA** (web + game dev · Morehouse / Spelman)
 - **Ask me about** &nbsp;hackathons · AR/XR · AI/ML · founding · Atlanta tech scene
+
+<br/>
+
+<div align="center"><img src="./assets/divider.svg" width="60%" alt="" /></div>
 
 <br/>
 
@@ -97,6 +101,10 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 
 <br/>
 
+<div align="center"><img src="./assets/divider.svg" width="60%" alt="" /></div>
+
+<br/>
+
 <!-- ──────────────────────────  GITHUB STATS  ─────────────────────── -->
 <div id="stats"></div>
 
@@ -142,6 +150,10 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 
 <br/>
 
+<div align="center"><img src="./assets/divider.svg" width="60%" alt="" /></div>
+
+<br/>
+
 <!-- ───────────────────────  SPOTIFY NOW PLAYING  ──────────────────── -->
 
 ## Now Playing
@@ -156,6 +168,10 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
     <img src="https://img.shields.io/badge/Open%20on%20Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify profile"/>
   </a>
 </div>
+
+<br/>
+
+<div align="center"><img src="./assets/divider.svg" width="60%" alt="" /></div>
 
 <br/>
 
