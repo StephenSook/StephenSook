@@ -51,48 +51,6 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 
 <br/>
 
-<!-- ────────────────────  FEATURED PROJECTS  ──────────────────────── -->
-<div id="projects"></div>
-
-## 🛠️&nbsp;&nbsp;Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ATL Quest
-AR/XR scavenger hunt for Atlanta visitors — built @ XR Dojo.<br/>
-<sub>AR · XR · Unity</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### <a href="https://nest-portfolio-pi.vercel.app">Nest</a>
-AI transition navigator for aging-out GA foster youth · KSU C-Day Spring '26.<br/>
-<sub>Next.js · Tailwind · framer-motion · Vercel</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <a href="https://github.com/StephenSook/trace-forensic-search">Trace</a>
-Semantic bridge between family descriptions and forensic records for missing persons. Named vectors + hybrid fusion on NamUs data.<br/>
-<sub>Vector search · Actian VectorAI · Python</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### <a href="https://github.com/StephenSook/GroundVault">GroundVault</a>
-Confidential RWA impact-lending vault for Community Land Trusts. ChainGPT-anchored impact memos.<br/>
-<sub>ERC-7984 · ERC-3643 · iExec Nox · Arbitrum Sepolia</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <!-- ───────────────────────────  TECH STACK  ───────────────────────── -->
 <div id="stack"></div>
 
