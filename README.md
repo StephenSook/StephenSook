@@ -12,7 +12,7 @@
 <!-- ─────────────────────  ANIMATED TYPING TAGLINE  ───────────────── -->
 <div align="center">
   <a href="https://stephensookra.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=30&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=820&height=60&lines=CS+%40+Kennesaw+State+%C2%B7+AI%2FML+Concentration;Software+Engineer+Intern+%40+XR+Dojo;7%C3%97+Hackathon+Builder;Building+toward+Trustworthy+AI+%C2%B7+High-Stakes+Domains;Atlanta-based+%C2%B7+Shipping+Ambitious+Things" alt="Rotating tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=30&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=820&height=60&lines=CS+%40+Kennesaw+State+%C2%B7+AI%2FML+Concentration;Software+Engineer+Intern+%40+XR+Dojo;1st+Place+%C2%B7+HMI+Hackathon+2026;Building+toward+Trustworthy+AI+%C2%B7+High-Stakes+Domains;Atlanta-based+%C2%B7+Shipping+Ambitious+Things" alt="Rotating tagline" />
   </a>
 </div>
 
@@ -56,6 +56,67 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 - **Latest experiment** &nbsp;**GroundVault**, a confidential RWA impact lending vault for Community Land Trusts on iExec TEE + Arbitrum Sepolia
 - **Summer 2026** &nbsp;Accepted **SMASH Academy TA** (web + game dev · Morehouse / Spelman)
 - **Ask me about** &nbsp;hackathons · AR/XR · AI/ML · founding · Atlanta tech scene
+
+<br/>
+
+<!-- ════════════════════════  DIVIDER  ════════════════════════ -->
+<img src="./assets/flux-divider.svg" width="100%" alt="" />
+
+<!-- ─────────────────────────  FEATURED BUILDS  ─────────────────────── -->
+<div id="work"></div>
+
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2 style="display: inline-block;">Featured Builds</h2>
+    </summary>
+  </ul>
+</div>
+
+<p align="center">
+  <sub><b>Hackathon record</b> &nbsp;·&nbsp; 🥇 1st Overall @ HMI 2026 &nbsp;·&nbsp; 🥈 2nd + 🥉 3rd @ KSU Social Good 2026 &nbsp;·&nbsp; 🥉 3rd @ KSU FinTech 2025</sub>
+</p>
+
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      🥇 <a href="https://github.com/StephenSook/StepSafe"><b>StepSafe</b></a> &nbsp;<sub>1st · HMI 2026</sub><br/>
+      Computer-vision diabetic foot ulcer triage from a single photo: expert-level assessment for any clinician.<br/>
+      <sub>TensorFlow · MobileNetV2 · FastAPI · React</sub>
+    </td>
+    <td valign="top" width="50%">
+      🥈🥉 <a href="https://github.com/StephenSook/PyroLens"><b>PyroLens</b></a> &nbsp;<sub>2nd + 3rd · KSU Social Good</sub><br/>
+      AI prescribed-burn decision support fusing IoT sensors, weather, and satellite data for safer controlled burns.<br/>
+      <sub>Python · scikit-learn · ESP32 · Supabase</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      🏟️ <a href="https://github.com/StephenSook/varsity"><b>VARSITY</b></a> &nbsp;<sub>IBM SkillsBuild</sub><br/>
+      Real-time, screen-reader-native AI that explains VAR and offside calls to blind football fans, grounded in the IFAB laws.<br/>
+      <sub>Python · IBM Granite · RAG · a11y</sub>
+    </td>
+    <td valign="top">
+      🔎 <a href="https://github.com/StephenSook/trace-forensic-search"><b>Trace</b></a> &nbsp;<sub>Actian VectorAI</sub><br/>
+      Semantic bridge between family descriptions and forensic records to help identify missing persons.<br/>
+      <sub>Named vectors · Hybrid fusion · NamUs</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      🔐 <a href="https://github.com/StephenSook/GroundVault"><b>GroundVault</b></a> &nbsp;<sub>iExec · Arbitrum</sub><br/>
+      Confidential real-world-asset impact lending vault for Community Land Trusts: prove eligibility, not identity.<br/>
+      <sub>ERC-7984 · ERC-3643 · iExec TEE · Solidity</sub>
+    </td>
+    <td valign="top">
+      🛡️ <a href="https://github.com/StephenSook/context-mod-devvit"><b>ContextMod-Devvit</b></a> &nbsp;<sub>Reddit Mod Tools</sub><br/>
+      Devvit Web port of FoxxMD's ContextMod moderation bot: JSON5 wiki rules, live telemetry, per-sub install, zero hosting.<br/>
+      <sub>TypeScript · Hono · Redis · Devvit</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>More on <a href="https://devpost.com/stephensookra">DevPost</a> &nbsp;·&nbsp; <a href="https://stephensookra.com">stephensookra.com</a></sub></p>
 
 <br/>
 
@@ -130,6 +191,11 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 </div>
 
 <div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=StephenSook&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=1A1B27&title_color=BF91F3&icon_color=00C9FF&text_color=C9D1D9&ring_color=38BDAE" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenSook&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=1A1B27&title_color=BF91F3&text_color=C9D1D9" alt="Top languages" />
+</div>
+
+<div align="center">
   <img height="180" src="https://streak-stats.demolab.com/?user=StephenSook&theme=tokyonight&hide_border=true&background=1A1B27&stroke=38BDAE&ring=BF91F3&fire=00C9FF&currStreakLabel=38BDAE" alt="Streak" />
 </div>
 
@@ -173,25 +239,6 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StephenSook/StephenSook/output/github-snake.svg" />
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/StephenSook/StephenSook/output/github-snake.svg" />
   </picture>
-</div>
-
-<br/>
-
-<!-- ════════════════════════  DIVIDER  ════════════════════════ -->
-<img src="./assets/flux-divider.svg" width="100%" alt="" />
-
-<!-- ────────────────────────────  TROPHIES  ────────────────────────── -->
-
-<div id="user-content-toc">
-  <ul align="center" style="list-style: none;">
-    <summary>
-      <h2 style="display: inline-block;">GitHub Trophies</h2>
-    </summary>
-  </ul>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=StephenSook&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
 </div>
 
 <br/>
