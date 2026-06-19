@@ -26,7 +26,7 @@
 <br/>
 
 <!-- ════════════════════════  DIVIDER  ════════════════════════ -->
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/flux-divider.svg" width="100%" alt="" />
 
 <!-- ───────────────────────────  ABOUT  ────────────────────────────── -->
 <div id="about"></div>
@@ -60,7 +60,7 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 <br/>
 
 <!-- ════════════════════════  DIVIDER  ════════════════════════ -->
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/flux-divider.svg" width="100%" alt="" />
 
 <!-- ───────────────────────────  TECH STACK  ───────────────────────── -->
 <div id="stack"></div>
@@ -116,7 +116,7 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 <br/>
 
 <!-- ════════════════════════  DIVIDER  ════════════════════════ -->
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/flux-divider.svg" width="100%" alt="" />
 
 <!-- ──────────────────────────  GITHUB STATS  ─────────────────────── -->
 <div id="stats"></div>
@@ -136,7 +136,7 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 <br/>
 
 <!-- ════════════════════════  DIVIDER  ════════════════════════ -->
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/flux-divider.svg" width="100%" alt="" />
 
 <!-- ─────────────────────  ACTIVITY GRAPH  ─────────────────────────── -->
 
@@ -155,7 +155,7 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 <br/>
 
 <!-- ════════════════════════  DIVIDER  ════════════════════════ -->
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/flux-divider.svg" width="100%" alt="" />
 
 <!-- ────────────────────────  SNAKE ANIMATION  ─────────────────────── -->
 
@@ -178,7 +178,7 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 <br/>
 
 <!-- ════════════════════════  DIVIDER  ════════════════════════ -->
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/flux-divider.svg" width="100%" alt="" />
 
 <!-- ────────────────────────────  TROPHIES  ────────────────────────── -->
 
@@ -197,7 +197,7 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 <br/>
 
 <!-- ════════════════════════  DIVIDER  ════════════════════════ -->
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/flux-divider.svg" width="100%" alt="" />
 
 <!-- ───────────────────────  SPOTIFY NOW PLAYING  ──────────────────── -->
 
@@ -223,7 +223,7 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 <br/>
 
 <!-- ════════════════════════  DIVIDER  ════════════════════════ -->
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/flux-divider.svg" width="100%" alt="" />
 
 <!-- ─────────────────────────  RESUME CTA  ──────────────────────────── -->
 
@@ -248,7 +248,7 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 <br/>
 
 <!-- ════════════════════════  DIVIDER  ════════════════════════ -->
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/flux-divider.svg" width="100%" alt="" />
 
 <!-- ─────────────────────────  CONNECT  ────────────────────────────── -->
 <div id="connect"></div>
@@ -274,7 +274,7 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 <br/>
 
 <!-- ════════════════════════  DIVIDER  ════════════════════════ -->
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/flux-divider.svg" width="100%" alt="" />
 
 <!-- ────────────────────  RANDOM DEV QUOTE  ─────────────────────────── -->
 
