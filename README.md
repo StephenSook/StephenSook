@@ -12,7 +12,7 @@
 <!-- ─────────────────────  ANIMATED TYPING TAGLINE  ───────────────── -->
 <div align="center">
   <a href="https://stephensookra.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=30&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=820&height=60&lines=CS+%40+Kennesaw+State+%C2%B7+AI%2FML+Concentration;Software+Engineer+Intern+%40+XR+Dojo;1st+Place+%C2%B7+HMI+Hackathon+2026;Building+toward+Trustworthy+AI+%C2%B7+High-Stakes+Domains;Atlanta-based+%C2%B7+Shipping+Ambitious+Things" alt="Rotating tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=30&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=820&height=60&lines=CS+%40+Kennesaw+State+%C2%B7+AI%2FML+Concentration;Software+Engineer+Intern+%40+XR+Dojo;6%C3%97+Hackathon+Podium+Finisher;Building+toward+Trustworthy+AI+%C2%B7+High-Stakes+Domains;Atlanta-based+%C2%B7+Shipping+Ambitious+Things" alt="Rotating tagline" />
   </a>
 </div>
 
@@ -74,7 +74,7 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 </div>
 
 <p align="center">
-  <sub><b>Hackathon record</b> &nbsp;·&nbsp; 🥇 1st Overall @ HMI 2026 &nbsp;·&nbsp; 🥈 2nd + 🥉 3rd @ KSU Social Good 2026 &nbsp;·&nbsp; 🥉 3rd @ KSU FinTech 2025</sub>
+  <sub><b>Hackathon record</b> &nbsp;·&nbsp; 🥇 1st @ HMI 2026 &nbsp;·&nbsp; 🥈 2nd of 4,700+ @ Wells Fargo / GCA &nbsp;·&nbsp; 🥈 2nd + 🥉 3rd @ KSU Social Good &nbsp;·&nbsp; 🥉 3rd @ KSU FinTech &nbsp;·&nbsp; 🥉 3rd @ Vibra ATL</sub>
 </p>
 
 <table align="center">
