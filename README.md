@@ -6,7 +6,7 @@
 <!-- ─────────────────────────  HERO BANNER  ───────────────────────── -->
 <!-- Hand-coded animated SVG: drifting particles, breathing glow, gradient wipe, typewriter subtitle, neural-net constellation -->
 <a href="https://github.com/StephenSook">
-  <img src="./assets/banner.svg" alt="Stephen Sookra — CS @ KSU · AI/ML · Builder · Atlanta" width="100%" />
+  <img src="./assets/banner.svg" alt="Stephen Sookra · CS @ KSU · AI/ML · Builder · Atlanta" width="100%" />
 </a>
 
 <!-- ─────────────────────  ANIMATED TYPING TAGLINE  ───────────────── -->
@@ -209,7 +209,7 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
   </ul>
 </div>
 
-<!-- Live widget — novatorem deployed at stephensook-novatorem.vercel.app -->
+<!-- Live widget: novatorem deployed at stephensook-novatorem.vercel.app -->
 <div align="center">
   <a href="https://open.spotify.com/user/31ozwwqttjufzxrv7k3qoovvpd34">
     <img src="https://stephensook-novatorem.vercel.app/api/orchestrator?background_color=1A1B27&border_color=7B61FF" alt="Live Spotify Now Playing" />
