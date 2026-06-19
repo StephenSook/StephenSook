@@ -12,7 +12,7 @@
 <!-- ─────────────────────  ANIMATED TYPING TAGLINE  ───────────────── -->
 <div align="center">
   <a href="https://stephensookra.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=30&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=820&height=60&lines=CS+%40+Kennesaw+State+%C2%B7+AI%2FML+Concentration;Software+Engineer+Intern+%40+XR+Dojo;6%C3%97+Hackathon+Podium+Finisher;Building+toward+Trustworthy+AI+%C2%B7+High-Stakes+Domains;Atlanta-based+%C2%B7+Shipping+Ambitious+Things" alt="Rotating tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=30&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=820&height=60&lines=CS+%40+Kennesaw+State+%C2%B7+AI%2FML+Concentration;Software+Engineer+Intern+%40+XR+Dojo;7%C3%97+Hackathon+Builder;Building+toward+Trustworthy+AI+%C2%B7+High-Stakes+Domains;Atlanta-based+%C2%B7+Shipping+Ambitious+Things" alt="Rotating tagline" />
   </a>
 </div>
 
@@ -25,10 +25,19 @@
 
 <br/>
 
+<!-- ════════════════════════  DIVIDER  ════════════════════════ -->
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 <!-- ───────────────────────────  ABOUT  ────────────────────────────── -->
 <div id="about"></div>
 
-## <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></picture>&nbsp;&nbsp;About Me
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2 style="display: inline-block;">About Me</h2>
+    </summary>
+  </ul>
+</div>
 
 ```yaml
 name:       Stephen Sookra
@@ -43,21 +52,26 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 ```
 
 - **Currently shipping** &nbsp;**ATL Quest** (AR + XR @ XR Dojo) and **Nest** (AI transition navigator for aging-out GA foster youth · KSU C-Day Spring '26)
-- **Researching** &nbsp;**Trace** — semantic bridge between family descriptions and forensic records for missing persons (named-vector + hybrid fusion on NamUs data, Actian VectorAI)
-- **Latest experiment** &nbsp;**GroundVault** — confidential RWA impact lending vault for Community Land Trusts on iExec TEE + Arbitrum Sepolia
+- **Researching** &nbsp;**Trace**, a semantic bridge between family descriptions and forensic records for missing persons (named-vector + hybrid fusion on NamUs data, Actian VectorAI)
+- **Latest experiment** &nbsp;**GroundVault**, a confidential RWA impact lending vault for Community Land Trusts on iExec TEE + Arbitrum Sepolia
 - **Summer 2026** &nbsp;Accepted **SMASH Academy TA** (web + game dev · Morehouse / Spelman)
 - **Ask me about** &nbsp;hackathons · AR/XR · AI/ML · founding · Atlanta tech scene
 
 <br/>
 
-<div align="center"><img src="./assets/divider.svg" width="60%" alt="" /></div>
-
-<br/>
+<!-- ════════════════════════  DIVIDER  ════════════════════════ -->
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ───────────────────────────  TECH STACK  ───────────────────────── -->
 <div id="stack"></div>
 
-## Tech Stack
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2 style="display: inline-block;">Tech Stack</h2>
+    </summary>
+  </ul>
+</div>
 
 <table align="center" width="100%">
 <tr>
@@ -101,14 +115,19 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 
 <br/>
 
-<div align="center"><img src="./assets/divider.svg" width="60%" alt="" /></div>
-
-<br/>
+<!-- ════════════════════════  DIVIDER  ════════════════════════ -->
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ──────────────────────────  GITHUB STATS  ─────────────────────── -->
 <div id="stats"></div>
 
-## GitHub Stats
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2 style="display: inline-block;">GitHub Stats</h2>
+    </summary>
+  </ul>
+</div>
 
 <div align="center">
   <img height="180" src="https://streak-stats.demolab.com/?user=StephenSook&theme=tokyonight&hide_border=true&background=1A1B27&stroke=38BDAE&ring=BF91F3&fire=00C9FF&currStreakLabel=38BDAE" alt="Streak" />
@@ -116,9 +135,18 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 
 <br/>
 
+<!-- ════════════════════════  DIVIDER  ════════════════════════ -->
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 <!-- ─────────────────────  ACTIVITY GRAPH  ─────────────────────────── -->
 
-## Contribution Activity
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2 style="display: inline-block;">Contribution Activity</h2>
+    </summary>
+  </ul>
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StephenSook&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=38BDAE&line=BF91F3&point=00C9FF&area=true&area_color=7B61FF" alt="Activity graph" />
@@ -126,9 +154,18 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 
 <br/>
 
+<!-- ════════════════════════  DIVIDER  ════════════════════════ -->
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 <!-- ────────────────────────  SNAKE ANIMATION  ─────────────────────── -->
 
-## Watch My Contributions Get Eaten
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2 style="display: inline-block;">Watch My Contributions Get Eaten</h2>
+    </summary>
+  </ul>
+</div>
 
 <div align="center">
   <picture>
@@ -140,9 +177,18 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 
 <br/>
 
+<!-- ════════════════════════  DIVIDER  ════════════════════════ -->
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 <!-- ────────────────────────────  TROPHIES  ────────────────────────── -->
 
-## GitHub Trophies
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2 style="display: inline-block;">GitHub Trophies</h2>
+    </summary>
+  </ul>
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=StephenSook&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
@@ -150,13 +196,18 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 
 <br/>
 
-<div align="center"><img src="./assets/divider.svg" width="60%" alt="" /></div>
-
-<br/>
+<!-- ════════════════════════  DIVIDER  ════════════════════════ -->
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ───────────────────────  SPOTIFY NOW PLAYING  ──────────────────── -->
 
-## Now Playing
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2 style="display: inline-block;">Now Playing</h2>
+    </summary>
+  </ul>
+</div>
 
 <!-- Live widget — novatorem deployed at stephensook-novatorem.vercel.app -->
 <div align="center">
@@ -171,13 +222,18 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 
 <br/>
 
-<div align="center"><img src="./assets/divider.svg" width="60%" alt="" /></div>
-
-<br/>
+<!-- ════════════════════════  DIVIDER  ════════════════════════ -->
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ─────────────────────────  RESUME CTA  ──────────────────────────── -->
 
-## Resume
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2 style="display: inline-block;">Resume</h2>
+    </summary>
+  </ul>
+</div>
 
 <div align="center">
   <a href="./assets/Stephen_Sookra_Resume.pdf">
@@ -191,10 +247,19 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 
 <br/>
 
+<!-- ════════════════════════  DIVIDER  ════════════════════════ -->
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 <!-- ─────────────────────────  CONNECT  ────────────────────────────── -->
 <div id="connect"></div>
 
-## Let's Connect
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2 style="display: inline-block;">Let's Connect</h2>
+    </summary>
+  </ul>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/stephen-sookra-633682339/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -207,6 +272,9 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 </div>
 
 <br/>
+
+<!-- ════════════════════════  DIVIDER  ════════════════════════ -->
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ────────────────────  RANDOM DEV QUOTE  ─────────────────────────── -->
 
@@ -224,7 +292,6 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
   <sub>
     <b>Credit</b>: Inspired by <a href="https://github.com/tylinndd"><b>@tylinndd</b></a> · originally adapted from <a href="https://github.com/1010nishant"><b>@1010nishant</b></a><br/>
     Built by <a href="https://github.com/StephenSook"><b>Stephen Sookra</b></a> · Atlanta, GA · <i>shipping ambitious things</i><br/>
-    <sub>Last edited: April 2026</sub>
+    <sub>Last edited: June 2026</sub>
   </sub>
 </div>
-
