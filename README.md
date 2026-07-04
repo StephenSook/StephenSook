@@ -190,10 +190,9 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
   </ul>
 </div>
 
+<!-- top-langs card dropped 2026-07-03: github-readme-stats.vercel.app shared instance returns 503 (rate-limited). Re-add only via a self-hosted instance. -->
 <div align="center">
   <img height="180" src="https://streak-stats.demolab.com/?user=StephenSook&theme=tokyonight&hide_border=true&background=1A1B27&stroke=38BDAE&ring=BF91F3&fire=00C9FF&currStreakLabel=38BDAE" alt="Contribution streak and totals" />
-  &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenSook&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=1A1B27&title_color=BF91F3&text_color=C9D1D9" alt="Top languages" />
 </div>
 
 <br/>
