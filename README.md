@@ -43,18 +43,18 @@
 name:       Stephen Sookra
 role:       Software Engineer Intern @ XR Dojo
 education:  Kennesaw State University · CS · AI/ML Concentration · 3.8 GPA · '28
-building:   ATL Quest · Nest · Trace · GroundVault
-learning:   Trustworthy AI · Multimodal Models · Vector Databases · iExec TEEs
+building:   Rooted · CornerCheck · GravitonKV · ATL Quest
+learning:   Trustworthy AI · C2PA Provenance · LLM Inference on Arm · Agentic Systems
 mentors:    Aaron Butler · Henry
 mission:    Founding a company in trustworthy AI for high-stakes domains
 location:   Atlanta, GA  (UTC-5)
 contact:    stephensookra@gmail.com  ·  stephensookra.com
 ```
 
-- **Currently shipping** &nbsp;**ATL Quest** (AR + XR @ XR Dojo) and **Nest** (AI transition navigator for aging-out GA foster youth · KSU C-Day Spring '26)
-- **Researching** &nbsp;**Trace**, a semantic bridge between family descriptions and forensic records for missing persons (named-vector + hybrid fusion on NamUs data, Actian VectorAI)
-- **Latest experiment** &nbsp;**GroundVault**, a confidential RWA impact lending vault for Community Land Trusts on iExec TEE + Arbitrum Sepolia
-- **Summer 2026** &nbsp;Accepted **SMASH Academy TA** (web + game dev · Morehouse / Spelman)
+- **Just shipped** &nbsp;**Rooted**, an open, vendor-neutral C2PA provenance-recovery server on Backblaze B2 · web + API + CLI + mobile, all live · submitted 32 days early
+- **Currently shipping** &nbsp;**ATL Quest** (AR + XR @ XR Dojo) and **CornerCheck** (fail-closed fighter-clearance Slack agent · Slack Agent Builder Challenge)
+- **Researching** &nbsp;**GravitonKV**, a KV-cache quantization tradeoff study for LLM inference on AWS Graviton4 (llama.cpp + KleidiAI · Arm Create 2026)
+- **Summer 2026** &nbsp;**SMASH Academy TA** (web + game dev · Morehouse / Spelman · Nationals Jul 31)
 - **Ask me about** &nbsp;hackathons · AR/XR · AI/ML · founding · Atlanta tech scene
 
 <br/>
@@ -104,9 +104,9 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
   </tr>
   <tr>
     <td valign="top">
-      🔐 <a href="https://github.com/StephenSook/GroundVault"><b>GroundVault</b></a> &nbsp;<sub>iExec · Arbitrum</sub><br/>
-      Confidential real-world-asset impact lending vault for Community Land Trusts: prove eligibility, not identity.<br/>
-      <sub>ERC-7984 · ERC-3643 · iExec TEE · Solidity</sub>
+      🌱 <a href="https://github.com/StephenSook/rooted"><b>Rooted</b></a> &nbsp;<sub>Backblaze · 7 live surfaces</sub><br/>
+      Vendor-neutral C2PA soft-binding resolution server on Backblaze B2: recovers stripped provenance for AI image, audio, and video.<br/>
+      <sub>FastAPI · C2PA · TrustMark · Postgres · Next.js</sub>
     </td>
     <td valign="top">
       🛡️ <a href="https://github.com/StephenSook/context-mod-devvit"><b>ContextMod-Devvit</b></a> &nbsp;<sub>Reddit Mod Tools</sub><br/>
@@ -336,6 +336,6 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
   <sub>
     <b>Credit</b>: Inspired by <a href="https://github.com/tylinndd"><b>@tylinndd</b></a> · originally adapted from <a href="https://github.com/1010nishant"><b>@1010nishant</b></a><br/>
     Built by <a href="https://github.com/StephenSook"><b>Stephen Sookra</b></a> · Atlanta, GA · <i>shipping ambitious things</i><br/>
-    <sub>Last edited: June 2026</sub>
+    <sub>Last edited: July 2026</sub>
   </sub>
 </div>
