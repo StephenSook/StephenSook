@@ -12,7 +12,7 @@
 <!-- ─────────────────────  ANIMATED TYPING TAGLINE  ───────────────── -->
 <div align="center">
   <a href="https://stephensookra.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=30&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=820&height=60&lines=CS+%40+Kennesaw+State+%C2%B7+AI%2FML+Concentration;Software+Engineer+Intern+%40+XR+Dojo;6%C3%97+Hackathon+Podium+Finisher;Building+toward+Trustworthy+AI+%C2%B7+High-Stakes+Domains;Atlanta-based+%C2%B7+Shipping+Ambitious+Things" alt="Rotating tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=30&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=820&height=60&lines=CS+%40+Kennesaw+State+%C2%B7+AI%2FML+Concentration;Software+Engineer+Intern+%40+XR+Dojo;8%C3%97+Hackathon+Award+Winner;%245%2C000+Grand+Prize+%C2%B7+IBM+SkillsBuild+Sports+Challenges;Building+toward+Trustworthy+AI+%C2%B7+High-Stakes+Domains;Atlanta-based+%C2%B7+Shipping+Ambitious+Things" alt="Rotating tagline" />
   </a>
 </div>
 
@@ -43,7 +43,8 @@
 name:       Stephen Sookra
 role:       Software Engineer Intern @ XR Dojo
 education:  Kennesaw State University · CS · AI/ML Concentration · 3.8 GPA · '28
-building:   Rooted · CornerCheck · GravitonKV · ATL Quest
+latest:     $5,000 Overall Grand Prize · IBM SkillsBuild Sports Challenges (VARSITY)
+building:   Attest · Erasure-Proof · GravitonKV · ATL Quest
 learning:   Trustworthy AI · C2PA Provenance · LLM Inference on Arm · Agentic Systems
 mentors:    Aaron Butler · Henry
 mission:    Founding a company in trustworthy AI for high-stakes domains
@@ -51,10 +52,11 @@ location:   Atlanta, GA  (UTC-5)
 contact:    stephensookra@gmail.com  ·  stephensookra.com
 ```
 
-- **Just shipped** &nbsp;**Rooted**, an open, vendor-neutral C2PA provenance-recovery server on Backblaze B2 · web + API + CLI + mobile, all live · submitted 32 days early
-- **Currently shipping** &nbsp;**ATL Quest** (AR + XR @ XR Dojo) and **CornerCheck** (fail-closed fighter-clearance Slack agent · Slack Agent Builder Challenge)
-- **Researching** &nbsp;**GravitonKV**, a KV-cache quantization tradeoff study for LLM inference on AWS Graviton4 (llama.cpp + KleidiAI · Arm Create 2026)
-- **Summer 2026** &nbsp;**SMASH Academy TA** (web + game dev · Morehouse / Spelman · Nationals Jul 31)
+- **Latest win** &nbsp;**VARSITY** took the **$5,000 Overall Grand Prize** across the May + June IBM SkillsBuild Sports Challenges, plus **Most Innovative** in June out of 98 teams
+- **Just shipped** &nbsp;**AccessGate** (caption + audio-description conformance pre-check on IBM Granite · IBM Bob AI Builders Challenge) and **Renova** (offline, on-device Medicaid renewal assistant on Gemma · web + iOS · five states)
+- **In judging** &nbsp;**Rooted** (Backblaze) · **CornerCheck** (Slack Agent Builder) · **Silent-Drift Sentinel** (DataHub) · **COGNISECT** (OpenAI Build Week)
+- **Now building** &nbsp;**Attest**, a phone agent that refuses to guess (Call-E) · **Erasure-Proof**, provable crypto-erasure for agent memory (CockroachDB x AWS) · **GravitonKV**, KV-cache quantization on Graviton4 (Arm Create 2026) · **ATL Quest** (AR + XR @ XR Dojo)
+- **Summer 2026** &nbsp;taught web + game dev as a **SMASH Academy TA** (Morehouse / Spelman)
 - **Ask me about** &nbsp;hackathons · AR/XR · AI/ML · founding · Atlanta tech scene
 
 <br/>
@@ -74,44 +76,56 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 </div>
 
 <p align="center">
-  <sub><b>Hackathon record</b> &nbsp;·&nbsp; 🥇 1st @ HMI 2026 &nbsp;·&nbsp; 🥈 2nd of 4,700+ @ Wells Fargo / GCA &nbsp;·&nbsp; 🥈 2nd + 🥉 3rd @ KSU Social Good &nbsp;·&nbsp; 🥉 3rd @ KSU FinTech &nbsp;·&nbsp; 🥉 3rd @ Vibra ATL</sub>
+  <sub><b>Hackathon record</b> &nbsp;·&nbsp; 🏆 $5,000 Grand Prize @ IBM SkillsBuild &nbsp;·&nbsp; 💡 Most Innovative @ IBM SkillsBuild June &nbsp;·&nbsp; 🥇 1st @ HMI 2026 &nbsp;·&nbsp; 🥈 2nd of 4,700+ @ Wells Fargo / GCA &nbsp;·&nbsp; 🥈 2nd + 🥉 3rd @ KSU Social Good &nbsp;·&nbsp; 🥉 3rd @ KSU FinTech &nbsp;·&nbsp; 🥉 3rd @ Vibra ATL</sub>
 </p>
 
 <table align="center">
   <tr>
     <td valign="top" width="50%">
+      🏆 <a href="https://github.com/StephenSook/varsity"><b>VARSITY</b></a> &nbsp;<sub>Grand Prize + Most Innovative · IBM SkillsBuild</sub><br/>
+      Real-time, screen-reader-native AI that explains VAR and offside calls to blind football fans, grounded in the IFAB laws.<br/>
+      <sub>Python · IBM Granite · RAG · a11y</sub>
+    </td>
+    <td valign="top" width="50%">
       🥇 <a href="https://github.com/StephenSook/StepSafe"><b>StepSafe</b></a> &nbsp;<sub>1st · HMI 2026</sub><br/>
       Computer-vision diabetic foot ulcer triage from a single photo: expert-level assessment for any clinician.<br/>
       <sub>TensorFlow · MobileNetV2 · FastAPI · React</sub>
     </td>
-    <td valign="top" width="50%">
+  </tr>
+  <tr>
+    <td valign="top">
       🥈🥉 <a href="https://github.com/StephenSook/PyroLens"><b>PyroLens</b></a> &nbsp;<sub>2nd + 3rd · KSU Social Good</sub><br/>
       AI prescribed-burn decision support fusing IoT sensors, weather, and satellite data for safer controlled burns.<br/>
       <sub>Python · scikit-learn · ESP32 · Supabase</sub>
     </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      🏟️ <a href="https://github.com/StephenSook/varsity"><b>VARSITY</b></a> &nbsp;<sub>IBM SkillsBuild</sub><br/>
-      Real-time, screen-reader-native AI that explains VAR and offside calls to blind football fans, grounded in the IFAB laws.<br/>
-      <sub>Python · IBM Granite · RAG · a11y</sub>
-    </td>
-    <td valign="top">
-      🔎 <a href="https://github.com/StephenSook/trace-forensic-search"><b>Trace</b></a> &nbsp;<sub>Actian VectorAI</sub><br/>
-      Semantic bridge between family descriptions and forensic records to help identify missing persons.<br/>
-      <sub>Named vectors · Hybrid fusion · NamUs</sub>
-    </td>
-  </tr>
-  <tr>
     <td valign="top">
       🌱 <a href="https://github.com/StephenSook/rooted"><b>Rooted</b></a> &nbsp;<sub>Backblaze · 7 live surfaces</sub><br/>
       Vendor-neutral C2PA soft-binding resolution server on Backblaze B2: recovers stripped provenance for AI image, audio, and video.<br/>
       <sub>FastAPI · C2PA · TrustMark · Postgres · Next.js</sub>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
-      🛡️ <a href="https://github.com/StephenSook/context-mod-devvit"><b>ContextMod-Devvit</b></a> &nbsp;<sub>Reddit Mod Tools</sub><br/>
-      Devvit Web port of FoxxMD's ContextMod moderation bot: JSON5 wiki rules, live telemetry, per-sub install, zero hosting.<br/>
-      <sub>TypeScript · Hono · Redis · Devvit</sub>
+      🎬 <a href="https://github.com/StephenSook/accessgate"><b>AccessGate</b></a> &nbsp;<sub>IBM Bob AI Builders</sub><br/>
+      Caption + audio-description conformance pre-check for film: 23 cited rules with a gated generative fix on IBM Granite.<br/>
+      <sub>Python · IBM watsonx · React · a11y</sub>
+    </td>
+    <td valign="top">
+      📋 <a href="https://github.com/StephenSook/renova"><b>Renova</b></a> &nbsp;<sub>Build with Gemma</sub><br/>
+      Offline, on-device Medicaid renewal assistant: reads a renewal notice and returns the deadline, case number, and documents in plain English. Five states.<br/>
+      <sub>Gemma · ONNX Runtime Web · PWA · iOS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      📉 <a href="https://github.com/StephenSook/silent-drift-sentinel"><b>Silent-Drift Sentinel</b></a> &nbsp;<sub>DataHub Agent Hackathon</sub><br/>
+      On-call agent that detects silent model drift, walks DataHub ML lineage to the upstream cause, and writes the causation back to the catalog.<br/>
+      <sub>Python · DataHub SDK · AWS · Vercel</sub>
+    </td>
+    <td valign="top">
+      ⚡ <a href="https://github.com/StephenSook/gravitonkv"><b>GravitonKV</b></a> &nbsp;<sub>Arm Create 2026</sub><br/>
+      KV-cache quantization tradeoff study for LLM inference on AWS Graviton4, with a reproducible harness and a canonical results schema.<br/>
+      <sub>llama.cpp · KleidiAI · Graviton4 · arm64 CI</sub>
     </td>
   </tr>
 </table>
@@ -335,6 +349,6 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
   <sub>
     <b>Credit</b>: Inspired by <a href="https://github.com/tylinndd"><b>@tylinndd</b></a> · originally adapted from <a href="https://github.com/1010nishant"><b>@1010nishant</b></a><br/>
     Built by <a href="https://github.com/StephenSook"><b>Stephen Sookra</b></a> · Atlanta, GA · <i>shipping ambitious things</i><br/>
-    <sub>Last edited: July 2026</sub>
+    <sub>Last edited: August 2026</sub>
   </sub>
 </div>
