@@ -12,7 +12,7 @@
 <!-- ─────────────────────  ANIMATED TYPING TAGLINE  ───────────────── -->
 <div align="center">
   <a href="https://stephensookra.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=30&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=820&height=60&lines=CS+%40+Kennesaw+State+%C2%B7+AI%2FML+Concentration;Software+Engineer+Intern+%40+XR+Dojo;8%C3%97+Hackathon+Award+Winner;%245%2C000+Grand+Prize+%C2%B7+IBM+SkillsBuild+Sports+Challenges;Building+toward+Trustworthy+AI+%C2%B7+High-Stakes+Domains;Atlanta-based+%C2%B7+Shipping+Ambitious+Things" alt="Rotating tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=30&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=820&height=60&lines=CS+%40+Kennesaw+State+%C2%B7+AI%2FML+Concentration;Software+Engineer+Intern+%40+XR+Dojo;9%C3%97+Hackathon+Award+Winner;%245%2C000+Grand+Prize+%C2%B7+IBM+SkillsBuild+Sports+Challenges;Building+toward+Trustworthy+AI+%C2%B7+High-Stakes+Domains;Atlanta-based+%C2%B7+Shipping+Ambitious+Things" alt="Rotating tagline" />
   </a>
 </div>
 
@@ -76,7 +76,7 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 </div>
 
 <p align="center">
-  <sub><b>Hackathon record</b> &nbsp;·&nbsp; 🏆 $5,000 Grand Prize @ IBM SkillsBuild &nbsp;·&nbsp; 💡 Most Innovative @ IBM SkillsBuild June &nbsp;·&nbsp; 🥇 1st @ HMI 2026 &nbsp;·&nbsp; 🥈 2nd of 4,700+ @ Wells Fargo / GCA &nbsp;·&nbsp; 🥈 2nd + 🥉 3rd @ KSU Social Good &nbsp;·&nbsp; 🥉 3rd @ KSU FinTech &nbsp;·&nbsp; 🥉 3rd @ Vibra ATL</sub>
+  <sub><b>Hackathon record</b> &nbsp;·&nbsp; 🏆 $5,000 Grand Prize @ IBM SkillsBuild &nbsp;·&nbsp; 💡 Most Innovative @ IBM SkillsBuild June &nbsp;·&nbsp; 🥇 1st of 22 @ Actian Build Challenge &nbsp;·&nbsp; 🥇 1st @ HMI 2026 &nbsp;·&nbsp; 🥈 2nd of 4,700+ @ Wells Fargo / GCA &nbsp;·&nbsp; 🥈 2nd + 🥉 3rd @ KSU Social Good &nbsp;·&nbsp; 🥉 3rd @ KSU FinTech &nbsp;·&nbsp; 🥉 3rd @ Vibra ATL</sub>
 </p>
 
 <table align="center">
