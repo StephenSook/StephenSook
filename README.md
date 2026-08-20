@@ -12,7 +12,7 @@
 <!-- ─────────────────────  ANIMATED TYPING TAGLINE  ───────────────── -->
 <div align="center">
   <a href="https://stephensookra.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=30&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=820&height=60&lines=CS+%40+Kennesaw+State+%C2%B7+AI%2FML+Concentration;Software+Engineer+Intern+%40+XR+Dojo;9%C3%97+Hackathon+Award+Winner;%245%2C000+Grand+Prize+%C2%B7+IBM+SkillsBuild+Sports+Challenges;Building+toward+Trustworthy+AI+%C2%B7+High-Stakes+Domains;Atlanta-based+%C2%B7+Shipping+Ambitious+Things" alt="Rotating tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=30&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=820&height=60&lines=CS+%40+Kennesaw+State+%C2%B7+AI%2FML+Concentration;Software+Engineer+Intern+%40+XR+Dojo;12%C3%97+Hackathon+Award+Winner+%C2%B7+10+Events;%245%2C000+Grand+Prize+%C2%B7+IBM+SkillsBuild+Sports+Challenges;Best+Use+of+Gemma+4+%C2%B7+Hack+RenderATL;Building+toward+Trustworthy+AI+%C2%B7+High-Stakes+Domains;Atlanta-based+%C2%B7+Shipping+Ambitious+Things" alt="Rotating tagline" />
   </a>
 </div>
 
@@ -43,19 +43,20 @@
 name:       Stephen Sookra
 role:       Software Engineer Intern @ XR Dojo
 education:  Kennesaw State University · CS · AI/ML Concentration · 3.8 GPA · '28
-latest:     $5,000 Overall Grand Prize · IBM SkillsBuild Sports Challenges (VARSITY)
-building:   Attest · Erasure-Proof · GravitonKV · ATL Quest
-learning:   Trustworthy AI · C2PA Provenance · LLM Inference on Arm · Agentic Systems
+record:     12 hackathon awards across 10 events
+latest:     1st place · Technologists of Color Chaos Challenge (Parliament, Aug 2026)
+building:   Manifest · Curtail · Attest · ATL Quest
+learning:   Trustworthy AI · Multi-Agent Governance · LLM Inference on Arm · On-Device Models
 mentors:    Aaron Butler · Henry
 mission:    Founding a company in trustworthy AI for high-stakes domains
 location:   Atlanta, GA  (UTC-5)
 contact:    stephensookra@gmail.com  ·  stephensookra.com
 ```
 
-- **Latest win** &nbsp;**VARSITY** took the **$5,000 Overall Grand Prize** across the May + June IBM SkillsBuild Sports Challenges, plus **Most Innovative** in June out of 98 teams
-- **Just shipped** &nbsp;**AccessGate** (caption + audio-description conformance pre-check on IBM Granite · IBM Bob AI Builders Challenge) and **Renova** (offline, on-device Medicaid renewal assistant on Gemma · web + iOS · five states)
-- **In judging** &nbsp;**Rooted** (Backblaze) · **CornerCheck** (Slack Agent Builder) · **Silent-Drift Sentinel** (DataHub) · **COGNISECT** (OpenAI Build Week)
-- **Now building** &nbsp;**Attest**, a phone agent that refuses to guess (Call-E) · **Erasure-Proof**, provable crypto-erasure for agent memory (CockroachDB x AWS) · **GravitonKV**, KV-cache quantization on Graviton4 (Arm Create 2026) · **ATL Quest** (AR + XR @ XR Dojo)
+- **Latest win** &nbsp;**1st place** at the **Technologists of Color Chaos Challenge** with **Parliament**, a one-hour build for Grant Park, alongside Khadim Drame, Ryann Ridgeway, and Darren L. Martin
+- **Recent wins** &nbsp;**Best Use of Gemma 4** for **Throughline** at Hack RenderATL · **Most Innovative Project** ($750) for **AccessGate** at the IBM AI Builders Challenge · **$5,000 Overall Grand Prize** + **Most Innovative** for **VARSITY** across the IBM SkillsBuild Sports Challenges
+- **In judging** &nbsp;**Erasure-Proof** (CockroachDB x AWS) · **GravitonKV** (Arm Create 2026) · **Aloud** (YouCam Skin AI) · **Silent-Drift Sentinel** (DataHub)
+- **Now building** &nbsp;**Manifest**, a regulatory critical-path planner for university CubeSats · **Curtail**, a governed multi-agent fleet for California water law · **Attest**, a phone agent that refuses to guess · **ATL Quest** (AR + XR @ XR Dojo)
 - **Summer 2026** &nbsp;taught web + game dev as a **SMASH Academy TA** (Morehouse / Spelman)
 - **Ask me about** &nbsp;hackathons · AR/XR · AI/ML · founding · Atlanta tech scene
 
@@ -76,7 +77,7 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 </div>
 
 <p align="center">
-  <sub><b>Hackathon record</b> &nbsp;·&nbsp; 🏆 $5,000 Grand Prize @ IBM SkillsBuild &nbsp;·&nbsp; 💡 Most Innovative @ IBM SkillsBuild June &nbsp;·&nbsp; 🥇 1st of 22 @ Actian Build Challenge &nbsp;·&nbsp; 🥇 1st @ HMI 2026 &nbsp;·&nbsp; 🥈 2nd of 4,700+ @ Wells Fargo / GCA &nbsp;·&nbsp; 🥈 2nd + 🥉 3rd @ KSU Social Good &nbsp;·&nbsp; 🥉 3rd @ KSU FinTech &nbsp;·&nbsp; 🥉 3rd @ Vibra ATL</sub>
+  <sub><b>Hackathon record · 12 awards across 10 events</b> &nbsp;·&nbsp; 🏆 $5,000 Grand Prize @ IBM SkillsBuild &nbsp;·&nbsp; 💡 Most Innovative @ IBM SkillsBuild June &nbsp;·&nbsp; 🏆 Best Use of Gemma 4 @ Hack RenderATL &nbsp;·&nbsp; 💡 Most Innovative @ IBM AI Builders July &nbsp;·&nbsp; 🥇 1st @ ToC Chaos Challenge &nbsp;·&nbsp; 🥇 1st of 22 @ Actian Build Challenge &nbsp;·&nbsp; 🥇 1st @ HMI 2026 &nbsp;·&nbsp; 🥈 2nd of 4,700+ @ Wells Fargo / GCA &nbsp;·&nbsp; 🥈 2nd + 🥉 3rd @ KSU Social Good &nbsp;·&nbsp; 🥉 3rd @ KSU FinTech &nbsp;·&nbsp; 🥉 3rd @ Vibra ATL</sub>
 </p>
 
 <table align="center">
@@ -87,6 +88,18 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
       <sub>Python · IBM Granite · RAG · a11y</sub>
     </td>
     <td valign="top" width="50%">
+      🏆 <a href="https://github.com/StephenSook/throughline"><b>Throughline</b></a> &nbsp;<sub>Best Use of Gemma 4 · Hack RenderATL</sub><br/>
+      Record-integrity layer: reconciles what one institution asserts against independent authorities, 51.9% divergence across 1,344 entities, and suppresses its own largest rule when a source fails the coverage gate.<br/>
+      <sub>Python · Gemma 4 · FastAPI · React</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      💡 <a href="https://github.com/StephenSook/accessgate"><b>AccessGate</b></a> &nbsp;<sub>Most Innovative · IBM AI Builders July</sub><br/>
+      Caption + audio-description conformance pre-check for film: 23 cited rules with a gated generative fix on IBM Granite. Every cited clause is a verbatim substring of the committed corpus.<br/>
+      <sub>Python · IBM watsonx · React · a11y</sub>
+    </td>
+    <td valign="top">
       🥇 <a href="https://github.com/StephenSook/StepSafe"><b>StepSafe</b></a> &nbsp;<sub>1st · HMI 2026</sub><br/>
       Computer-vision diabetic foot ulcer triage from a single photo: expert-level assessment for any clinician.<br/>
       <sub>TensorFlow · MobileNetV2 · FastAPI · React</sub>
@@ -99,28 +112,28 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
       <sub>Python · scikit-learn · ESP32 · Supabase</sub>
     </td>
     <td valign="top">
-      🌱 <a href="https://github.com/StephenSook/rooted"><b>Rooted</b></a> &nbsp;<sub>Backblaze · 7 live surfaces</sub><br/>
-      Vendor-neutral C2PA soft-binding resolution server on Backblaze B2: recovers stripped provenance for AI image, audio, and video.<br/>
-      <sub>FastAPI · C2PA · TrustMark · Postgres · Next.js</sub>
+      🥇 <a href="https://github.com/StephenSook/Parliament-Quickbuild"><b>Parliament</b></a> &nbsp;<sub>1st · ToC Chaos Challenge</sub><br/>
+      One-hour chaos build: a one-scroll field school for Grant Park, Atlanta's oldest park at 131.5 acres, with a field pass that actually enrolls you.<br/>
+      <sub>HTML · CSS · JS · Supabase</sub>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      🎬 <a href="https://github.com/StephenSook/accessgate"><b>AccessGate</b></a> &nbsp;<sub>IBM Bob AI Builders</sub><br/>
-      Caption + audio-description conformance pre-check for film: 23 cited rules with a gated generative fix on IBM Granite.<br/>
-      <sub>Python · IBM watsonx · React · a11y</sub>
+      🔐 <a href="https://github.com/StephenSook/erasure-proof"><b>Erasure-Proof</b></a> &nbsp;<sub>CockroachDB x AWS</sub><br/>
+      Provable crypto-erasure for agent memory: one SERIALIZABLE transaction shreds the embedding, keeps a hash-chained log, and anchors a KMS-signed proof to S3 Object Lock.<br/>
+      <sub>CockroachDB · AWS KMS · S3 Object Lock · Python</sub>
     </td>
+    <td valign="top">
+      💧 <a href="https://github.com/StephenSook/curtail"><b>Curtail</b></a> &nbsp;<sub>Google x Devpost Agentic</sub><br/>
+      Governed multi-agent fleet for California water law: watches the river, computes who must stop diverting under priority, drafts the order a human official signs.<br/>
+      <sub>Python · multi-agent · water law · Postgres</sub>
+    </td>
+  </tr>
+  <tr>
     <td valign="top">
       📋 <a href="https://github.com/StephenSook/renova"><b>Renova</b></a> &nbsp;<sub>Build with Gemma</sub><br/>
       Offline, on-device Medicaid renewal assistant: reads a renewal notice and returns the deadline, case number, and documents in plain English. Five states.<br/>
       <sub>Gemma · ONNX Runtime Web · PWA · iOS</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      📉 <a href="https://github.com/StephenSook/silent-drift-sentinel"><b>Silent-Drift Sentinel</b></a> &nbsp;<sub>DataHub Agent Hackathon</sub><br/>
-      On-call agent that detects silent model drift, walks DataHub ML lineage to the upstream cause, and writes the causation back to the catalog.<br/>
-      <sub>Python · DataHub SDK · AWS · Vercel</sub>
     </td>
     <td valign="top">
       ⚡ <a href="https://github.com/StephenSook/gravitonkv"><b>GravitonKV</b></a> &nbsp;<sub>Arm Create 2026</sub><br/>
