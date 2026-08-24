@@ -95,7 +95,7 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
   </tr>
   <tr>
     <td valign="top">
-      💡 <a href="https://github.com/StephenSook/accessgate"><b>AccessGate</b></a> &nbsp;<sub>Most Innovative · IBM AI Builders July</sub><br/>
+      🏆 <a href="https://github.com/StephenSook/accessgate"><b>AccessGate</b></a> &nbsp;<sub>Most Innovative · IBM AI Builders July</sub><br/>
       Caption + audio-description conformance pre-check for film: 23 cited rules with a gated generative fix on IBM Granite. Every cited clause is a verbatim substring of the committed corpus.<br/>
       <sub>Python · IBM watsonx · React · a11y</sub>
     </td>
