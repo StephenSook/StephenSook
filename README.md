@@ -89,7 +89,7 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 </div>
 
 <p align="center">
-  <sub><b>Hackathon record · 17 awards across 15 events</b> &nbsp;·&nbsp; 🏆 $5,000 Visa track @ HackGT 13 &nbsp;·&nbsp; 🥇 1st of 238 + $5,000 @ YouCam API &nbsp;·&nbsp; 🏆 $5,000 Grand Prize @ IBM SkillsBuild &nbsp;·&nbsp; 🥇 1st + $2,000 @ BIT Code for Change &nbsp;·&nbsp; 🏆 Best Use of Technology @ IBM AI Builders Aug &nbsp;·&nbsp; 💡 Most Innovative @ IBM AI Builders July &nbsp;·&nbsp; 💡 Most Innovative @ IBM SkillsBuild June &nbsp;·&nbsp; 🏆 Best Use of Gemma 4 @ Hack RenderATL &nbsp;·&nbsp; 🥇 1st @ ToC Chaos Challenge &nbsp;·&nbsp; 🥇 1st of 22 @ Actian &nbsp;·&nbsp; 🥇 1st @ HMI 2026 &nbsp;·&nbsp; 🥈 2nd of 4,700+ @ Wells Fargo / GCA &nbsp;·&nbsp; 🥈 2nd @ Rote Playoffs &nbsp;·&nbsp; 🥈 2nd + 🥉 3rd @ KSU Social Good &nbsp;·&nbsp; 🥉 3rd @ KSU FinTech &nbsp;·&nbsp; 🥉 3rd @ Vibra ATL</sub>
+  <sub><b>Hackathon record · 17 awards across 15 events</b> &nbsp;·&nbsp; 🏆 $5,000 Visa track @ HackGT 13 &nbsp;·&nbsp; 🥇 1st of 238 + $5,000 @ YouCam API &nbsp;·&nbsp; 🏆 $5,000 Grand Prize @ IBM SkillsBuild &nbsp;·&nbsp; 🥇 1st + $2,000 @ BIT Code for Change &nbsp;·&nbsp; 🏆 Best Use of Technology @ IBM AI Builders Aug &nbsp;·&nbsp; 🏆 Most Innovative @ IBM AI Builders July &nbsp;·&nbsp; 💡 Most Innovative @ IBM SkillsBuild June &nbsp;·&nbsp; 🏆 Best Use of Gemma 4 @ Hack RenderATL &nbsp;·&nbsp; 🥇 1st @ ToC Chaos Challenge &nbsp;·&nbsp; 🥇 1st of 22 @ Actian &nbsp;·&nbsp; 🥇 1st @ HMI 2026 &nbsp;·&nbsp; 🥈 2nd of 4,700+ @ Wells Fargo / GCA &nbsp;·&nbsp; 🥈 2nd @ Rote Playoffs &nbsp;·&nbsp; 🥈 2nd + 🥉 3rd @ KSU Social Good &nbsp;·&nbsp; 🥉 3rd @ KSU FinTech &nbsp;·&nbsp; 🥉 3rd @ Vibra ATL</sub>
 </p>
 
 <table align="center">
@@ -124,7 +124,7 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
       <sub>Next.js · IBM Bob · watsonx Granite · NOAA</sub>
     </td>
     <td valign="top" width="50%">
-      💡 <a href="https://github.com/StephenSook/accessgate"><b>AccessGate</b></a> &nbsp;<sub>Most Innovative · IBM AI Builders July</sub><br/>
+      🏆 <a href="https://github.com/StephenSook/accessgate"><b>AccessGate</b></a> &nbsp;<sub>Most Innovative · IBM AI Builders July</sub><br/>
       Caption + audio-description conformance pre-check for film: 23 cited rules with a gated generative fix on IBM Granite.<br/>
       <sub>Python · IBM watsonx · React · a11y</sub>
     </td>
