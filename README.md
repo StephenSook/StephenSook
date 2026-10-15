@@ -61,7 +61,7 @@ building:   ATL Quest (AR @ XR Dojo) · Nest (foster-youth navigator)
 learning:   Trustworthy AI · Multi-Agent Governance · LLM Inference on Arm · On-Device Models
 mentors:    Aaron Butler · Henry
 mission:    Founding a company in trustworthy AI for high-stakes domains
-location:   Atlanta, GA  (UTC-5)
+location:   Atlanta, GA  (Eastern Time, UTC-5 or UTC-4)
 contact:    stephensookra@gmail.com  ·  stephensookra.com
 ```
 
