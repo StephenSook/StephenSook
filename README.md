@@ -68,7 +68,7 @@ contact:    stephensookra@gmail.com  ·  stephensookra.com
 - **Latest win** &nbsp;**$5,000 Visa track** at **HackGT 13** with **Lullabuy**: a used-baby-gear checkout that holds the Visa payment until a phone photo of the label clears every CPSC and NHTSA recall, built with Tylin Delaney
 - **Recent wins** &nbsp;**1st place + $2,000** for **Upstander** at BIT Atlanta Code for Change · **Best Use of Technology** for **Manifest** at the IBM AI Builders Challenge · **1st of 238 + $5,000** for **Aloud** at the YouCam API Hackathon · **2nd** at the Modiqo Rote Playoffs
 - **Up next** &nbsp;**Cal Hacks 13.0** in San Francisco (Oct 2026)
-- **Building now** &nbsp;[Soundcheck](https://gitlab.com/gitlab-ai-hackathon/transcend-october-2026/34575441/showcase): an acoustic release system for GitLab Transcend, with source-linked digital replay and physical validation in progress
+- **Building now** &nbsp;[Soundcheck](https://gitlab.com/gitlab-ai-hackathon/transcend-october-2026/34575441/showcase): an acoustic release system for GitLab Transcend. [Try the live judge path](https://soundcheck-qg5egdmvdq-ue.a.run.app/judge/acoustic-release) for source-linked digital replay; physical validation is still in progress.
 - **Giving back** &nbsp;**GDG on Campus KSU** e-board (mentorship) · helping first-time hackers ship
 - **Summer 2026** &nbsp;taught web + game dev as a **SMASH Academy TA** (Morehouse / Spelman)
 - **Ask me about** &nbsp;hackathons · AR/XR · AI/ML · founding · Atlanta tech scene
